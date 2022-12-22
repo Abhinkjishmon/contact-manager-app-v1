@@ -38,7 +38,9 @@ export class ContactManagerComponent implements OnInit{
     this.api.deleteContact(contactId)
     .subscribe(
       (data:any)=>{
+        //to get all contacts from Api
         this.getAllContact()
+        //window.location.reload() - auto refresh
       }
     )
   }

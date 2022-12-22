@@ -2,13 +2,13 @@
   "contacts": [
     {
       "id": "ca1",
-      "name": "Leanne Graham",
+      "name": "Leanne G",
       "email": "Sincere@april.biz",
       "photo": "https://tse2.mm.bing.net/th?id=OIP.8srvO2PtBJk8dCezMndAtAHaJx&pid=Api&P=0",
-      "mobile": "9876543210",
+      "mobile": "981111111",
       "company": "Romaguera-Crona",
       "title": "Developer",
-      "groupId": "1"
+      "groupId": "group.id"
     },
     {
       "id": "ca2",
@@ -42,13 +42,13 @@
     },
     {
       "id": "ca5",
-      "name": "Chelsey Dietrich",
-      "email": "Lucio_Hettinger@annie.ca",
-      "photo": "https://img.izismile.com/img/img12/20190404/640/internet_has_chosen_the_most_beautiful_hollywood_actresses_of_all_time_640_high_04.jpg",
+      "name": "Nicholas Runolfsdottir V",
+      "email": "Sherwood@rosamond.me",
+      "photo": "https://qph.fs.quoracdn.net/main-qimg-db4e696e7c0905ee34f311d49135e607",
       "mobile": "9876543210",
-      "company": "Keebler LLC",
-      "title": "HR",
-      "groupId": "1"
+      "company": "Abernathy Group",
+      "title": "Developer",
+      "groupId": "4"
     },
     {
       "id": "ca6",
@@ -59,26 +59,6 @@
       "company": "Considine-Lockman",
       "title": "Developer",
       "groupId": "2"
-    },
-    {
-      "id": "ca7",
-      "name": "Kurtis Weissnat",
-      "email": "Telly.Hoeger@billy.biz",
-      "photo": "https://tse4.mm.bing.net/th?id=OIP.m3rkzh5zmIk5rDE9ib22wwHaJE&pid=Api&P=0",
-      "mobile": "9876543210",
-      "company": "Johns Group",
-      "title": "Data Analyst",
-      "groupId": "3"
-    },
-    {
-      "id": "ca8",
-      "name": "Nicholas Runolfsdottir V",
-      "email": "Sherwood@rosamond.me",
-      "photo": "https://qph.fs.quoracdn.net/main-qimg-db4e696e7c0905ee34f311d49135e607",
-      "mobile": "9876543210",
-      "company": "Abernathy Group",
-      "title": "Developer",
-      "groupId": "4"
     }
   ],
   "groups": [
